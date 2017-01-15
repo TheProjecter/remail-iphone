@@ -1,0 +1,1 @@
+reMail downloads all your email to your iPhone and searches it instantly.reMail was acquired by Google in February of 2010, and we've decided open source the product: Read the reMail open source announcement for details
